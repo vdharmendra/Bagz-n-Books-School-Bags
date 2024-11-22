@@ -34,6 +34,7 @@
 <img src="./img/bagz-n-book-new-collection-section.gif" width="575px"/>
 </a>
 <br />
+<br />
 <span>Cover</span><br/>
 <a href="" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
