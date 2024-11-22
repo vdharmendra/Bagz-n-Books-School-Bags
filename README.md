@@ -27,7 +27,8 @@
   <li>Images from freepik</li>
   <li>Desgin in Abode XD</li>
 </ul>
-<br>
+<br />
+<br />
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
 <img src="./img/bagz-n-book-new-collection-section.gif" width="575px"/>
