@@ -30,12 +30,12 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="" width="575px"/>
+<img src="./img/bagz-n-book-new-collection-section.gif" width="575px"/>
 </a>
 <br />
 <span>Cover</span><br/>
 <a href="" target="_blank" >
-<img src="" width="225px"/>
+<img src="./img/cover.png" width="575px"/>
 </a>
 
 
